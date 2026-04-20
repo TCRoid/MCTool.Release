@@ -1,0 +1,11 @@
+{
+  "DataVersion": "2026.04.20.143018",
+  "TargetAppVersion": "2026.4.17",
+  "GeneratedAt": "2026-04-20T14:30:18Z",
+  "Sha256": "7383c2fe5412f07813779c113affa399e30a1fe7ee1db1e7da7e3a112b89c806",
+  "FileSize": 174407,
+  "SourceCommit": "a6c93ea8559572702eb682022470c56539eb9fa1",
+  "SourceRepository": "TCRoid/MCTool.Data",
+  "SourceBranch": "main",
+  "PackageFile": "main.zip"
+}
