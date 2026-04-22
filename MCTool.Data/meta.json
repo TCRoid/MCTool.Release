@@ -1,11 +1,8 @@
 {
-  "DataVersion": "2026.04.20.144300",
-  "TargetAppVersion": "2026.4.17",
-  "GeneratedAt": "2026-04-20T14:43:00Z",
-  "Sha256": "60b5ce7176017caa690cae9160d9d6377c3826f109004e290c049d792fd29880",
-  "FileSize": 174407,
-  "SourceCommit": "02b6ed647e9d5dbf69db12a22fae034a5373d51d",
-  "SourceRepository": "TCRoid/MCTool.Data",
-  "SourceBranch": "main",
+  "DataVersion": "2026.04.22.102305",
+  "TargetAppVersion": "2026.04.17",
+  "GeneratedAt": "2026-04-22T10:23:05Z",
+  "Sha256": "7970196e15c7c1652ac52a6f30d83fe561852db2e2726f96fa1b23d7b7322bc7",
+  "FileSize": 174422,
   "PackageFile": "main.zip"
 }
