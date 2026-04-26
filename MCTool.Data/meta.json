@@ -1,8 +1,8 @@
 {
-  "DataVersion": "2026.04.22.102305",
-  "TargetAppVersion": "2026.04.17",
-  "GeneratedAt": "2026-04-22T10:23:05Z",
-  "Sha256": "7970196e15c7c1652ac52a6f30d83fe561852db2e2726f96fa1b23d7b7322bc7",
-  "FileSize": 174422,
+  "DataVersion": "2026.04.26.082840",
+  "TargetAppVersion": "2026.04.26.0000",
+  "GeneratedAt": "2026-04-26T08:28:40Z",
+  "Sha256": "f222d8e299066d1aef77f09563ea63f21c74384016b4a9f5294dceeb4db85dc3",
+  "FileSize": 250667,
   "PackageFile": "main.zip"
 }
